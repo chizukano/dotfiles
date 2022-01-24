@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = chizu0303@gmail.com
+	name = chizukano
